@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "shop_id": {
+      "type": ["null", "string"]
+    },
+    "shop_region": {
+      "type": ["null", "string"]
+    }
+  }
+}
